@@ -132,7 +132,7 @@ dependencies {
     transitive = false
   }
   androidTestImplementation('com.wix:detox:+') { transitive = true }
-  androidTestImplementation 'junit:junit:4.12'
+  androidTestImplementation 'junit:junit:4.13.1'
 }
 
 // Run this once to be able to run the application with BUCK
