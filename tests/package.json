@@ -28,7 +28,7 @@
     "@react-native-firebase/remote-config": "0.3.0",
     "@react-native-firebase/storage": "0.3.0",
     "react": "16.8.6",
-    "react-native": "0.60.4"
+    "react-native": "0.81.0-rc.1"
   },
   "devDependencies": {
     "@react-native-firebase/private-tests-helpers": "^0.0.13",
